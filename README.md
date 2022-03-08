@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3
- <img align="center" alt="CSS" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!PNG/python.png?raw=true"> Python
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"> Python
  
 ## Top langs:
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasadsr&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
