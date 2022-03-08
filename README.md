@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-ferreira-5277131a5/")](https://www.linkedin.com/in/lucas-ara%C3%BAjo-34bba91b5/)
 
 ## Currently studying:
- :yellow_square: JavaScript
- 
- :blue_square: Python
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3
+ <img align="center" alt="CSS" height="30" width="40" src="https://github.com/vorillaz/devicons/blob/master/!PNG/python.png?raw=true"> Python
  
 ## Top langs:
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasadsr&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ## Profile stats:
   <p><img src="https://github-readme-stats.vercel.app/api?username=lucasadsr&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
