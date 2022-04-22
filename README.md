@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Lucas Araújo :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-ferreira-5277131a5/")](https://www.linkedin.com/in/lucas-ara%C3%BAjo-34bba91b5/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-ferreira-5277131a5/")](https://www.linkedin.com/in/lucasadsr/)
 
 ## Currently studying:
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
