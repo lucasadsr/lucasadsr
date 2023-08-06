@@ -10,6 +10,6 @@
 <div/>
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,next,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,next,nodejs,typescript,html,css)](https://skillicons.dev)
 
 ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
