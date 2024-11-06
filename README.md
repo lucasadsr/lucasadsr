@@ -12,7 +12,7 @@ Computer Science Student
 *   🧠  I'm learning Next.js and Node.js
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,next,nodejs,typescript,styledcomponents,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,next,nodejs,typescript,prisma,styledcomponents,html,css)](https://skillicons.dev)
 
 ### Socials:
 
