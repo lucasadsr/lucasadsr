@@ -6,7 +6,7 @@ Full Stack developer
 
 Computer Science Student
 
-*   🌍  I'm based in Recife - Brasil
+*   🌍  I'm based in Recife - Brazil
 *   ✉️  You can contact me at [lucasaraujodesa@hotmail.com](mailto:lucasaraujodesa@hotmail.com)
 *   🚀  I'm currently working on [My portifolio](http://github.com/lucasadsr/portifolio)
 *   🧠  I'm learning Next.js and NestJS
