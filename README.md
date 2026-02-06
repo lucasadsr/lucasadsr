@@ -7,9 +7,7 @@ Full Stack developer
 Computer Science Student
 
 *   🌍  I'm based in Recife - Brazil
-*   ✉️  You can contact me at [lucasaraujodesa@hotmail.com](mailto:lucasaraujodesa@hotmail.com)
-*   🚀  I'm currently working on [Pittaya UI](https://github.com/pittaya-ui)
-*   🧠  I'm learning Next.js and NestJS
+*   🚀  I'm currently working on [Pittaya UI](https://github.com/pittaya-ui) 
 
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=react,next,typescript,redux,vite,tailwind,html,css,prisma,nestjs,nodejs,go,docker,vercel)](https://skillicons.dev)
